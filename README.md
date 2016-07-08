@@ -13,6 +13,8 @@
   * `sudo pip3 install hg+http://bitbucket.org/pygame/pygame`
 
 * The artwork of the cars was downloaded from [OpenGameArt.org](http://opengameart.org/content/racecars-2d).
+
 * The sound tracks were downloaded from [YouTube Audio Library](https://www.youtube.com/audiolibrary/music).
+
 * The sound effect of racing cars was downloaded from [FreeSoundEffect.com](https://www.freesoundeffects.com/free-sounds/cars-10069/40/tot_sold/20/3/)
 
