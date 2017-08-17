@@ -12,6 +12,14 @@
 
   * `sudo pip3 install hg+http://bitbucket.org/pygame/pygame`
 
+* If you're using Conda, install some packages as the following:
+  
+  * For Pygame: `conda install -c cogsci pygame`
+  * For libgcc: `conda install libgcc`
+
+* After the installations, launch the game by:
+  * `python3 racing_cars.py`
+
 * The artwork of the cars was downloaded from [OpenGameArt.org](http://opengameart.org/content/racecars-2d).
 
 * The sound tracks were downloaded from [YouTube Audio Library](https://www.youtube.com/audiolibrary/music).
